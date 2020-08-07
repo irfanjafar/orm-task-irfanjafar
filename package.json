@@ -1,0 +1,12 @@
+{
+  "name": "orm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@caporal/core": "^2.0.2",
+    "caporal": "^1.4.0",
+    "mysql2": "^2.1.0",
+    "sequelize": "^6.3.4"
+  }
+}
